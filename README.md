@@ -1,1 +1,3 @@
 # CS4110-ME1
+
+    So, from the topic, the paper "Computing Machinery and Intelligence" by Alan Turing depicts that that computers could one day replicate human-like behavior and explores how machines could be programmed to learn and mimic human intelligence. Turing also addresses potential objections and limitations to the idea of machine thinking, laying the foundation for the field of artificial intelligence.
